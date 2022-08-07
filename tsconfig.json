@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "types": ["cypress"],
+    "types": ["cypress", "cypress-xpath"],
     "baseUrl": ".",
     "paths": {
       "*": ["types/*.d.ts"]
